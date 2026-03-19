@@ -21,7 +21,7 @@ The framework uses a layered architecture with four primary layers:
 
 System Architecture             |  Core Components
 :-------------------------:|:-------------------------:
-![](/assets/images/architecture.pdf)   |  ![](/assets/images/core_components.pdf)
+![](./assets/images/architecture.png)   |  ![](./assets/images/core_components.pdf)
 
 ## Installation
 
